@@ -4,7 +4,7 @@
   "description": "",
   "main": "generator.js",
   "dependencies": {
-    "mongoose": "^5.4.22"
+    "mongoose": "^8.18.0"
   },
   "devDependencies": {},
   "scripts": {
